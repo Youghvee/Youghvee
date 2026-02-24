@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youghvee&show_icons=true&title_color=ff0000&text_color=000000&locale=en&layout=compact" alt="youghvee" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=youghvee&show_icons=true&title_color=ffffff&text_color=000000&locale=en" alt="youghvee" />
 </p>
 
