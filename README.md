@@ -10,7 +10,7 @@
 - 🇮🇩 Projects <b>IT PROGRAMMER ON TELEGRAM BOT !!</b>
 
 <p align="center">
-  <img src="https://media.tenor.com/YOUR-NAGI-GIF.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Youghvee/Youghvee/main/nagi.gif" width="400"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
