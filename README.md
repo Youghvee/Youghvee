@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youghvee" alt="youghvee" /></a> </p>
 
-- 🔭 Use **Pyhton**
+- 🌐 Use **Pyhton**
 
 - 🇮🇩 Projects <b>IT PROGRAMMER ON TELEGRAM BOT !!</b>
 
