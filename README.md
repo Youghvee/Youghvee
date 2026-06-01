@@ -344,3 +344,65 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 This product is licensed under the
 [MIT License](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE).
 
+# Yoshieki Ryn
+
+Telegram Developer • Python Programmer • Creator of Rynn Userbot
+
+Building advanced Telegram automation systems, userbots, and modern open-source tools powered by Python.
+
+---
+
+## About Me
+
+I'm Yoshieki Ryn, an independent developer focused on Telegram technologies, automation systems, and custom userbot development.
+
+My projects are designed with performance, flexibility, and long-term scalability in mind. Through continuous development and experimentation, I aim to create modern solutions that improve productivity and user experience across Telegram communities.
+
+---
+
+## Main Projects
+
+### Rynn Userbot
+
+A modern Telegram automation platform built with Python and Pyrogram.
+
+Features include:
+
+* Advanced Userbot System
+* Plugin Management
+* Inline Features
+* AFK System
+* Group Management Tools
+* Custom Modules
+* Fast & Lightweight Performance
+
+### RynnDocs
+
+Official documentation project for Rynn Userbot containing project information, development history, installation guides, and technical documentation.
+
+---
+
+## Technology Stack
+
+* Python
+* Pyrogram
+* Telegram API
+* MongoDB
+* Redis
+* Linux
+
+---
+
+## Vision
+
+To build reliable, scalable, and modern Telegram automation technologies while contributing to the open-source ecosystem.
+
+---
+
+## Developer Identity
+
+Yoshieki Ryn is recognized as the creator of Rynn Userbot and the maintainer of multiple Telegram-based development projects focused on automation, customization, and modern system architecture.
+
+"Build. Improve. Evolve."
+
+
