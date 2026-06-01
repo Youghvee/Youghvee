@@ -31,7 +31,7 @@ My projects are designed with performance, flexibility, and long-term scalabilit
 
 ## Main Projects
 
-### Rynn Userbot
+**Rynn Userbot**
 
 A modern Telegram automation platform built with Python and Pyrogram.
 
