@@ -29,7 +29,7 @@ My projects are designed with performance, flexibility, and long-term scalabilit
 
 ---
 
-## Main Projects
+## Master Projects
 
 **Rynn Userbot**
 
